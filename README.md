@@ -38,9 +38,9 @@ My main responsibilities is:
 - Built components by VueJS (Alert, Form Validation).
 - Learn about CRM system of Indition platform.
 
-After finish that project, we processed more than 100+ email a week to help create more 30+ escalations.
+After finished that project, we processed more than 100+ email a week to help create more 30+ escalations.
 
-##### QuickShip (2 months)
+##### Quick Shipping (2 months)
 
 Requirement of this project is detect shipping mode base on the address of customer. We used Yii Framework, FlightJS.
 
@@ -50,7 +50,45 @@ My main responsibilities is:
 - Using CRUD generator of Yii to reduce time write normal function - what I implemented some specific feature before for Indition platform.
 - Learn about logic of an ecommerce system of Indition platform.
 
-After finish that project, we can show an shipping label, calculate new shipping cost for each product base on customer address.
+After finished that project, we can show an shipping label, calculate new shipping cost for each product base on customer address.
 
+##### Cms
 
+Every single day, I had been using, tracking every issues of CMS. This is a powerful CMS with rich features with highlight: 
 
+- Multi-site on one source
+- Multiple user roles and publishing rights
+- Unlimited templates and pages with versioning
+- Widgets in templates shared and inherited by pages
+- Indition Workflows for simplifying content management
+- Content branching, merging and tagging
+- Versioning of all content
+- A/B/X page testing
+- User Agent specific revision routing (Mobile, Tablet and Desktop)
+- Page archiving (Lock revision, only allow you or adminstrators edit that revision)
+- Custom URLs with 301 redirects and external redirects
+- Automatic sitemap generation
+- Drag and drop page tree
+- Workflow and page access controls
+- Dynamic page creation through Indition modules
+
+##### Dockerized Indition Platform
+
+I built an bash script to help team setup an new Indition project quickly. Use `Docker` and [Nginx Proxy](https://github.com/jwilder/nginx-proxy), I can setup an project using PHP, Postgres application with SSL on about 30 minutes.
+
+Features
+
+- Use custom php container or Indition PHP container (I built it base on [Webdevops](https://github.com/webdevops/Dockerfile))
+- Use OpenSSL to generate self-certificate
+- Use Nginx as proxy
+- Auto import database on development server or local SQl file
+
+##### Indition SVN tool
+
+Requirement is NodeJS to built a SVN server and VueJS to built a interface with only one developer - it's me. 
+
+Features
+
+- Track local change of source code
+- Comapre branch, revison of source code
+- Sync source code of one or all modules
