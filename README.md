@@ -1,4 +1,4 @@
-## Tuan Nguyen
+## Curriculum Vitae
 
 > Read more, write better
 
