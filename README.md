@@ -8,8 +8,6 @@ Why I want to be a blogger? Because I want to self-assertion. Write my experienc
 
 ### Highlight
 
-* * *
-
 - 2+ experince on position `Full stack developer`
 - Backend: NodeJS ([Express](https://github.com/expressjs/express)), [GraphQL](https://github.com/apollographql/apollo-server), PHP ([Phalcon](https://github.com/phalcon/cphalcon), [Yii](https://github.com/yiisoft/yii)), Docker, RESTfull.
 - Frontend: [ReactJS](https://github.com/facebook/react), [VueJS](https://github.com/vuejs/vue), [FlightJS](https://github.com/flightjs/flight).
@@ -18,9 +16,9 @@ Why I want to be a blogger? Because I want to self-assertion. Write my experienc
 
 ### Experince
 
-* * *
-
 #### Picosix
+
+* * *
 
 As I said, I want to self-assertion. So I create my online brand by write blog, write tutorial, create open source projects.
 
@@ -44,6 +42,8 @@ I used
 - Nginx as reverse proxy - [nginx-proxy](https://github.com/jwilder/nginx-proxy)
 
 #### [Tagrem Corp](http://tagrem.com/) (Sep 2016 - Now)
+
+* * *
 
 My main responsibilities
 
@@ -123,6 +123,8 @@ Features
 - Sync source code of one or all modules
 
 #### Caribe Tech (Oct 2015 - Sep 2016)
+
+* * *
 
 It's a startup. Every single day, I receive requirement from manager, break it to tasks, assign to memebers of team, implement some feature with team.
 We used Phalcon Framework, ElasticSearch and Redis.
