@@ -10,6 +10,7 @@ Why I want to be a blogger? Because I want to self-assertion. Write my experienc
 
 - Name: Tuan Nguyen
 - Birthday: 07/08/1993
+- Mail: tuan.nguyen930708(at)gmail.com
 - Github: https://github.com/picosix
 - Blog: http://nodeplusplus.com/
 - LinkedIn: https://www.linkedin.com/in/tuan-nguyen-p6/
@@ -36,6 +37,8 @@ Technologies I used
 
 - NodeJS - [ExpressJS](https://github.com/expressjs/express)
 - [React](https://github.com/facebook/react)
+- Docker
+- Git
 
 ##### Picosix Static Sever [p6-static](https://github.com/picosix/p6-static)
 
