@@ -18,6 +18,29 @@ Why I want to be a blogger? Because I want to self-assertion. Write my experienc
 
 ### Experince
 
+#### Picosix
+
+As I said, I want to self-assertion. So I create my online brand by write blog, write tutorial, create open source projects.
+
+For open source projects, I love to work with Javascript, so I try to use it to create a usefull application for everybody. 
+
+Technologies I used
+
+- NodeJS - [ExpressJS](https://github.com/expressjs/express)
+- [React](https://github.com/facebook/react)
+
+##### Picosix Static Sever [p6-static](https://github.com/picosix/p6-static)
+
+This is production base on my tutorial writed at [p6-static-example](https://github.com/picosix/p6-static-example). On this project, I train somebody create a server to render image - return an image with specific size. 
+
+I used
+
+- ExpressJS and MongoDB
+- Docker
+- React - [Antd](https://github.com/ant-design/ant-design)
+- Nginx to render image - what is rendered with specific before
+- Nginx as reverse proxy - [nginx-proxy](https://github.com/jwilder/nginx-proxy)
+
 #### [Tagrem Corp](http://tagrem.com/) (Sep 2016 - Now)
 
 My main responsibilities
@@ -25,6 +48,12 @@ My main responsibilities
 - Buid and maintain modules of Indition platform
 - Apply new technologies (VueJS, Docker) to make our product be better
 - Deploy release for bug fix, new feature to "stage" environment
+
+Main technologies
+
+- PHP - [Yii 1](https://github.com/yiisoft/yii)
+- [FlightJS](https://github.com/flightjs/flight)
+- [VueJS](https://github.com/vuejs/vue)
 
 ##### Automatic Escalation (1,5 month)
 
@@ -95,6 +124,12 @@ Features
 
 It's a startup. Every single day, I receive requirement from manager, break it to tasks, assign to memebers of team, implement some feature with team.
 We used Phalcon Framework, ElasticSearch and Redis.
+
+Main technologies
+
+- PHP - [Phalcon](https://github.com/phalcon/cphalcon)
+- [ElasticSearch](https://github.com/elastic/elasticsearch)
+- [Redis](https://github.com/antirez/redis)
 
 ##### [mangvieclam.com](https://mangvieclam.com/)
 
