@@ -31,7 +31,7 @@ Technologies I used
 
 ##### Picosix Static Sever [p6-static](https://github.com/picosix/p6-static)
 
-This is production base on my tutorial writed at [p6-static-example](https://github.com/picosix/p6-static-example). On this project, I train somebody create a server to render image - return an image with specific size. 
+This is production base on my tutorial writed at [p6-static-example](https://github.com/picosix/p6-static-example). On this project, I try to coaching somebody create a server to render image - return an image with specific size. 
 
 I used
 
