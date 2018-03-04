@@ -26,8 +26,6 @@ My main responsibilities
 - Apply new technologies (VueJS, Docker) to make our product be better
 - Deploy release for bug fix, new feature to "stage" environment
 
-I worked on projects:
-
 ##### Automatic Escalation (1,5 month)
 
 The purpose of this project is automatic created an escalation (ticket) from an email sent by customer and assign that to right staff. We used Yii Framework, FlightJS and VueJS on this project.
@@ -54,7 +52,7 @@ After finished that project, we can show an shipping label, calculate new shippi
 
 ##### Cms
 
-Every single day, I had been using, tracking every issues of CMS. This is a powerful CMS with rich features with highlight: 
+Every single day, I had been using CMS, tracking every issues itself. This is a powerful CMS with rich features with highlight: 
 
 - Multi-site on one source
 - Multiple user roles and publishing rights
@@ -92,3 +90,33 @@ Features
 - Track local change of source code
 - Comapre branch, revison of source code
 - Sync source code of one or all modules
+
+#### Caribe Tech (Oct 2015 - Sep 2016)
+
+It's a startup. Every single day, I receive requirement from manager, break it to tasks, assign to memebers of team, implement some feature with team.
+We used Phalcon Framework, ElasticSearch and Redis.
+
+##### [mangvieclam.com](https://mangvieclam.com/)
+
+It's a market place to help employee find a job and employer find a candidate find their favorite vehicles or sell their vehicles. We used Phalcon framework, ElasticSearch and Redis.
+
+My main responsibilities is: 
+
+- Design a structure of API.
+- Use ElasticSearch to create full-text seach API.
+- Use Redis as cache layer.
+
+This product is on top 30 of `Top Sites in Vietnam` [Alexa Ranking](https://www.alexa.com/siteinfo/mangvieclam.com))
+
+##### [xehoiviet.com](https://xehoiviet.com/)
+
+It's a market place to help everybody find their favorite vehicles or sell their vehicles. We used Phalcon framework, ElasticSearch and Redis.
+
+My main responsibilities is: 
+
+- Manage a small team.
+- Design a structure of API.
+- Learn how to use ElasticSearch to create full-text seach API.
+- Learn how to use Redis as cache layer.
+
+This is the first project I work as a leader, I learned many things from it - made mistakes, wrong decision, wrong way to manage resource, ... But after that, we created a product serve to many customer ([Alexa Ranking](https://www.alexa.com/siteinfo/xehoiviet.com))
