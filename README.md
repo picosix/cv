@@ -1,7 +1,5 @@
 ## Curriculum Vitae
 
-> Read more, write better
-
 My name is Tuan. I'm a developer. I'm a blogger too.
 
 Why I want to be a developer? Because I'm lazy. I want to make every boring task to be automatic by programming.
