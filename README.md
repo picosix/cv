@@ -18,3 +18,29 @@ Why I want to be a blogger? Because I want to self-assertion. Write my experienc
 
 ### Experince
 
+#### [Tagrem Corp](http://tagrem.com/) (Sep 2016 - Now)
+
+My main responsibilities
+
+- Buid and maintain modules of Indition platform
+- Apply new technologies (VueJS, Docker) to make our product be better
+- Deploy release for bug fix, new feature to "stage" environment
+
+I worked on projects:
+
+##### Automatic Escalation (1,5 month)
+
+The purpose of this project is automatic created an escalation (ticket) from an email sent by customer and assign that to right staff. We used Yii Framework, FlightJS and VueJS on this project.
+
+My main responsibilities is: 
+
+- Help everybody on team configure webpack base on requirement of manager. I'm need making that structure can be re-use on next project. 
+- Built components by VueJS (Alert, Form Validation)
+
+After finish that project, we processed more than 100+ email a week to help create more 30+ escalations.
+
+
+
+
+
+
