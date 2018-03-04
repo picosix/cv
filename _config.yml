@@ -1,6 +1,7 @@
 theme: jekyll-theme-merlot
 title: Tuan Nguyen
 description: Read more, write better
+show_downloads: true
 picosix: 
   blog_url: http://nodeplusplus.com/
   linkedin_url: https://www.linkedin.com/in/tuan-nguyen-p6/
