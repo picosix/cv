@@ -11,9 +11,9 @@ Why I want to be a blogger? Because I want to self-assertion. Write my experienc
 - Name: Tuan Nguyen
 - Birthday: 07/08/1993
 - Mail: tuan.nguyen930708(at)gmail.com
-- Github: https://github.com/picosix
-- Blog: http://nodeplusplus.com/
-- LinkedIn: https://www.linkedin.com/in/tuan-nguyen-p6/
+- Github: [Picosix](https://github.com/picosix)
+- Blog: [Node++](http://nodeplusplus.com/)
+- LinkedIn: [Tuan Nguyen](https://www.linkedin.com/in/tuan-nguyen-p6/)
 
 ### Highlight
 
