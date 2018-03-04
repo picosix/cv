@@ -6,6 +6,14 @@ Why I want to be a developer? Because I'm lazy. I want to make every boring task
 
 Why I want to be a blogger? Because I want to self-assertion. Write my experience down, help me and everyone want to learning don't repreat my mistakes.
 
+### Personal information
+
+- Name: Tuan Nguyen
+- Birthday: 07/08/1993
+- Github: https://github.com/picosix
+- Blog: http://nodeplusplus.com/
+- LinkedIn: https://www.linkedin.com/in/tuan-nguyen-p6/
+
 ### Highlight
 
 - 2+ experince on position `Full stack developer`
