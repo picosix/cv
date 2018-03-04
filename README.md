@@ -1,4 +1,4 @@
-## Curriculum 
+## Curriculum Vitae
 
 My name is Tuan. I'm a developer. I'm a blogger too.
 
@@ -11,6 +11,7 @@ Why I want to be a blogger? Because I want to self-assertion. Write my experienc
 - Name: Tuan Nguyen
 - Birthday: 07/08/1993
 - Mail: tuan.nguyen930708(at)gmail.com
+- Curriculum Vitae: [Curriculum Vitae](https://picosix.github.io/cv/)
 - Github: [Picosix](https://github.com/picosix)
 - Blog: [Node++](http://nodeplusplus.com/)
 - LinkedIn: [Tuan Nguyen](https://www.linkedin.com/in/tuan-nguyen-p6/)
