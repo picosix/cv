@@ -1,4 +1,6 @@
-## Curriculum Vitae
+## Curriculum 
+
+* * *
 
 My name is Tuan. I'm a developer. I'm a blogger too.
 
