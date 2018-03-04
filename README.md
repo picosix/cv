@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Tuan Nguyen
 
-You can use the [editor on GitHub](https://github.com/picosix/cv/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+> Read more, write better
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Tuan. I'm a developer. I'm a blogger too.
 
-### Markdown
+Why I want to be a developer? Because I'm lazy. I want to make every boring task to be automatic by programming.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Why I want to be a blogger? Because I want to self-assertion. Write my experience down, help me and everyone want to learning don't repreat my mistakes.
 
-```markdown
-Syntax highlighted code block
+### Highlight
 
-# Header 1
-## Header 2
-### Header 3
+- 2+ experince on position `Full stack developer`
+- Backend: NodeJS ([Express](https://github.com/expressjs/express)), [GraphQL](https://github.com/apollographql/apollo-server), PHP ([Phalcon](https://github.com/phalcon/cphalcon), [Yii](https://github.com/yiisoft/yii)), Docker, RESTfull
+- Frontend: [ReactJS](https://github.com/facebook/react), [VueJS](https://github.com/vuejs/vue), [FlightJS](https://github.com/flightjs/flight)
+- Like to refresh myself every single day. Want to make something better
+- Friendly, responsible and funny
 
-- Bulleted
-- List
+### Experince
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/picosix/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
