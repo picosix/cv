@@ -122,7 +122,7 @@ Features
 - Use custom php container or Indition PHP container (I built it base on [Webdevops](https://github.com/webdevops/Dockerfile))
 - Use OpenSSL to generate self-certificate
 - Use Nginx as proxy
-- Auto import database on development server or local SQl file
+- Auto import database on development server or local SQL file
 
 ##### Indition SVN tool
 
