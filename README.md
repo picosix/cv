@@ -95,7 +95,7 @@ After finished that project, we can show an shipping label, calculate new shippi
 
 ##### Cms
 
-Every single day, I had been using CMS, tracking every issues itself. This is a powerful CMS with rich features with highlight: 
+Every single day, I had been using CMS, tracking every issues and maintaining it. This is a powerful CMS with rich features with highlight: 
 
 - Multi-site on one source
 - Multiple user roles and publishing rights
