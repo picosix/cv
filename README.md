@@ -157,7 +157,7 @@ My main responsibilities is:
 - Use ElasticSearch to create full-text seach API.
 - Use Redis as cache layer.
 
-This product is on top 30 of `Top Sites in Vietnam` [Alexa Ranking](https://www.alexa.com/siteinfo/mangvieclam.com))
+This product is on top 30 of `Top Sites in Vietnam` ([Alexa Ranking](https://www.alexa.com/siteinfo/mangvieclam.com))
 
 ##### [xehoiviet.com](https://xehoiviet.com/)
 
