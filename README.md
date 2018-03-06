@@ -53,6 +53,8 @@ I used
 - Nginx to render image - what is rendered with specific before
 - Nginx as reverse proxy - [nginx-proxy](https://github.com/jwilder/nginx-proxy)
 
+[DEMO](http://static-client.picosix.info/)
+
 #### [Tagrem Corp](http://tagrem.com/) (Sep 2016 - Now)
 
 * * *
