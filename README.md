@@ -2,9 +2,9 @@
 
 My name is Tuan. I'm a developer. I'm a blogger, too.
 
-Why did I want to be a developer? Because I'm lazy. I want to make every boring task automatic by programming.
+Why do I want to be a developer? Because I'm lazy. I want to make every boring task automatic by programming.
 
-Why did I want to be a blogger? Because I want to be self-assertion. Write my experience down, help me and everyone wanting to learning not to repreat my mistakes.
+Why do I want to be a blogger? Because I want to be self-assertion. Write my experience down, help me and everyone wanting to learning not to repreat my mistakes.
 
 ### Personal information
 
@@ -169,4 +169,4 @@ My main responsibilities is:
 * Learn how to use ElasticSearch to create full-text seach API.
 * Learn how to use Redis as cache layer.
 
-This is the first project I work as a leader, I learned many things from it - made mistakes, wrong decision, wrong way to manage resource, ... But after that, we created a product serve to many customer ([Alexa Ranking](https://www.alexa.com/siteinfo/xehoiviet.com))
+This is the first project I work as a leader, I learned many things from it - made mistakes, wrong decision, wrong way to manage resource, ... To build a successful product, we must have a clearly intent, have a good boss and interested on it.
