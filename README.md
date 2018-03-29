@@ -2,7 +2,7 @@
 
 My name is Tuan. I'm a developer. I'm a blogger, too.
 
-Why do I want to be a developer? Because I'm lazy. I want to make every boring task automatic by programming.
+Why do I want to be a developer? Doing everything manually is kind of boring, so I figured out what if I can automate them. That's the reason why I became a developer.
 
 Why do I want to be a blogger? Because I want to be self-assertion. Write my experience down, help me and everyone wanting to learning not to repreat my mistakes.
 
@@ -11,6 +11,7 @@ Why do I want to be a blogger? Because I want to be self-assertion. Write my exp
 * Name: Tuan Nguyen
 * Birthday: 07/08/1993
 * Mail: tuan.nguyen930708(at)gmail.com
+* Skype: tuan.nguyen930708(at)hotmail.com
 * Curriculum Vitae: [Curriculum Vitae](https://picosix.github.io/cv/)
 * Github: [Picosix](https://github.com/picosix)
 * Blog: [Node++](http://nodeplusplus.com/)
