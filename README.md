@@ -43,6 +43,7 @@ Before doing anything, I'm always think about how user interact with my applicat
 - Appy microservice architecture with pattern "Messaging" (instead of using RabbitMQ, I used _Redis_ as broker delivery)
 - Use _GraphQL_ on front of services
 - Deploy microservices by _Docker_ containers
+- Using CI tools on git services (bitbucket, gitlab) to improve development process
 
 The best thing I did is upgrade the old system (NodeJS v0.12) to new structure I described above. To upgrade, I followed these steps
 
