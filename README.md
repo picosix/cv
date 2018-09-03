@@ -50,5 +50,5 @@ The best thing I did is upgrade the old system (NodeJS v0.12) to new structure I
 - Learned the business logic
 - Write unit test and implement it
 - Cleanup the unit test and code I wrote
-- Repeate these steps over, over and over until no more code to upgrade
+- Repeat these steps over, over and over until no more code to upgrade
 - Break the monolithic application to micorservice application
