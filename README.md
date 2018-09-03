@@ -9,7 +9,7 @@ Why do I want to be a blogger? Because I want to be self-assertion. Write my exp
 ### Personal information
 
 - Name: Tuan Nguyen
-- Birthday: 07/08/1993
+- Birthday: 1993-08-07
 - Mail: tuan.nguyen930708(at)gmail.com
 - Skype: tuan.nguyen930708(at)hotmail.com
 - Curriculum Vitae: [Curriculum Vitae](https://picosix.github.io/cv/)
