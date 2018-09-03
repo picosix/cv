@@ -35,10 +35,19 @@ Before doing anything, I'm always think about how user interact with my applicat
 
 #### Isentia (March 2018 - Now)
 
-- Position: Fullstack Developer
-- Responsibility: Maintain a Social Listening System. To listen a ton of comments of social channels (Facebook, Youtube, Instagrams, Twitter, ...), I have to use many techniques, liraries on this system such as
+**Position:** Fullstack Developer, DevOps
 
-  - _Elasticsearch_ to store and query data
-  - Appy microservice architecture with pattern "Messaging" (instead of using RabbitMQ, I used _Redis_ as broker delivery)
-  - Use _GraphQL_ on front of services
-  - Deploy microservices by _Docker_ containers
+**Responsibility:** Maintain a Social Listening System. To listen a ton of comments of social channels (Facebook, Youtube, Instagrams, Twitter, ...), I have to use many techniques, liraries on this system such as
+
+- _Elasticsearch_ to store and query data
+- Appy microservice architecture with pattern "Messaging" (instead of using RabbitMQ, I used _Redis_ as broker delivery)
+- Use _GraphQL_ on front of services
+- Deploy microservices by _Docker_ containers
+
+The best thing I did is upgrade the old system (NodeJS v0.12) to new structure I described above. To upgrade, I followed these steps
+
+- Learned the business logic
+- Write unit test and implement it
+- Cleanup the unit test and code I wrote
+- Repeate these steps over, over and over until no more code to upgrade
+- Break the monolithic application to micorservice application
