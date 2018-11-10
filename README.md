@@ -65,7 +65,7 @@ Before doing anything, I'm always think about how user interact with my applicat
 - Nginx: A reverse proxy. Serve HTML site, React application and load balancing
 - CI/CD tools: I use CI/CD tool on Gitlab to auto build new package and put it to npm.com
 
-TAhe best thing I had been did is upgraded old platform from Node v.12.x to v8.x. I changed many things to make sure our platform is working with new policy from our chanels. This is a way I did it
+A best thing I had been did is upgraded old platform from Node v.12.x to v8.x. I changed many things to make sure our platform is working with new policy from our chanels. This is a way I did it
 
 - Learned a bussiness logic by deploy and runing it on real server
 - Write TDD test case by the logic I learned above and implement it
