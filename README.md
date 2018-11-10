@@ -37,18 +37,17 @@ Before doing anything, I'm always think about how user interact with my applicat
 
 **Position:** Fullstack Developer, DevOps
 
-**Responsibility:** Maintain a Social Listening System. To listen a ton of comments of social channels (Facebook, Youtube, Instagrams, Twitter, ...), I have to use many techniques, liraries on this system such as
+**Responsibility:** I'm a lead of Crawler Team. We buit a platform allow listen all reponse from user on almost chanels such as: Social (Facebook, Youtube, ...), Forum, News, ... To serve a hundred million requests per days, store a gigabyte data per hour, we use some techniques
 
-- _Elasticsearch_ to store and query data
-- Appy microservice architecture with pattern "Messaging" (instead of using RabbitMQ, I used _Redis_ as broker delivery)
-- Use _GraphQL_ on front of services
-- Deploy microservices by _Docker_ containers
-- Using CI tools on git services (bitbucket, gitlab) to improve development process
+- Elasticsearch: We store almost data on this engine. With ability to scale up data per day, just begin with a minimum equipment, with flexible format (JSON), we could sovle our problem - store terabytes of data, distributed search and analytics data (message of user)
+- MongoDB: We need a hidden layer to store config and data before push to Elasticsearch
+- Docker: One environment for development, testing and production. We can serve a platform run on NodeJS v0.12.x and v8.x on one server. And we can scale apps up with a file - docker-compose.yml
+- Nginx: A reverse proxy. Serve HTML site, React application and load balancing
+- CI/CD tools: I use CI/CD tool on Gitlab to auto build new package and put it to npm.com
 
-The best thing I did is upgrade the old system (NodeJS v0.12) to new structure I described above. To upgrade, I followed these steps
+The best thing I had been did is upgrade old platform from Node v.12.x to v8.x. I changed many things to make sure our platform is working with new policy from our chanels. This is a way I did it
 
-- Learned the business logic
-- Write unit test and implement it
+- Learned a bussiness logic by deploy and runing it on real server
+- Write TDD test case by the logic I learned above and implement it
 - Cleanup the unit test and code I wrote
 - Repeat these steps over, over and over until no more code to upgrade
-- Break the monolithic application to micorservice application
