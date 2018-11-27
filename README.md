@@ -19,7 +19,7 @@ If you are looking for my CV on PDF format, you can find it at [[Tuan Nguyen] - 
 - Curriculum Vitae: [Curriculum Vitae](https://picosix.github.io/cv/)
 - Github: [Picosix](https://github.com/picosix)
 - Blog: [Node++](http://nodeplusplus.com/)
-- LinkedIn: [Tuan Nguyen](https://www.linkedin.com/in/tuan-nguyen-p6/)
+- LinkedIn: [Tuan Nguyen](https://www.linkedin.com/in/tuannguyen1993/)
 
 ### Mindset
 
