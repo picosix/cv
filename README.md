@@ -13,7 +13,7 @@ If you are looking for my CV on PDF format, you can find it at [[Tuan Nguyen] - 
 ### Personal information
 
 - Name: Tuan Nguyen
-- Birthday: 1993-08-07
+- Birthday: 1993
 - Mail: tuan.nguyen930708(at)gmail.com
 - Skype: tuan.nguyen930708(at)hotmail.com
 - Curriculum Vitae: [Curriculum Vitae](https://picosix.github.io/cv/)
