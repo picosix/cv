@@ -6,6 +6,10 @@ Why do I want to be a developer? Doing everything manually is kind of boring, so
 
 Why do I want to be a blogger? Because I want to be self-assertion. Write my experience down, help me and everyone wanting to learning not to repreat my mistakes.
 
+### PDF
+
+If you are looking for my CV on PDF format, you can find it at [[Tuan Nguyen] - Backend Developer](./%5BTuan%20Nguyen%5D%20-%20Backend%20Developer.pdf)
+
 ### Personal information
 
 - Name: Tuan Nguyen
